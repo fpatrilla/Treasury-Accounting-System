@@ -143,4 +143,5 @@ TypeScript · Next.js · Node · MongoDB
 
 [LinkedIn](https://linkedin.com/in/federico-patrilla) ·
 [GitHub](https://github.com/fpatrilla) ·
+[patrillacomunicaciones.com](https://www.patrillacomunicaciones.com) ·
 fpatrilla@gmail.com
