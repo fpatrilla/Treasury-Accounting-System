@@ -20,7 +20,7 @@ against a 300-account chart of accounts.
 
 | Financial reports | Cheque management |
 |---|---|
-| ![Financial reports with period filtering](docs/screenshots/report.png) | ![Cheque portfolio with due dates](docs/screenshots/cheques.png) |
+| ![Financial reports with period filtering](docs/screenshots/report.png) | ![Cheque portfolio with due dates](docs/screenshots/cheques1.png) |
 
 ---
 
