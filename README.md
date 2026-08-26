@@ -124,10 +124,6 @@ deleting an account — check the PIN client-side first for immediate feedback,
 then revalidate server-side before persisting. The client check is a courtesy;
 the server check is the actual control.
 
-**Backward-compatible flags.** The `imputable` field was added after accounts
-already existed. Filtering on `imputable !== false` rather than
-`imputable === true` treats legacy records as valid instead of silently hiding
-them — a small choice that avoided a migration.
 
 **Model registration on serverless.** Mongoose models weren't consistently
 registered across cold starts, breaking populated queries intermittently. A
